@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/todo-list/static/css/main.ea921373.chunk.css",
+    "main.js": "/todo-list/static/js/main.64e0f1e5.chunk.js",
+    "main.js.map": "/todo-list/static/js/main.64e0f1e5.chunk.js.map",
+    "runtime-main.js": "/todo-list/static/js/runtime-main.c4a9aae7.js",
+    "runtime-main.js.map": "/todo-list/static/js/runtime-main.c4a9aae7.js.map",
+    "static/js/2.7671fe17.chunk.js": "/todo-list/static/js/2.7671fe17.chunk.js",
+    "static/js/2.7671fe17.chunk.js.map": "/todo-list/static/js/2.7671fe17.chunk.js.map",
+    "static/js/3.b971af44.chunk.js": "/todo-list/static/js/3.b971af44.chunk.js",
+    "static/js/3.b971af44.chunk.js.map": "/todo-list/static/js/3.b971af44.chunk.js.map",
+    "index.html": "/todo-list/index.html",
+    "static/css/main.ea921373.chunk.css.map": "/todo-list/static/css/main.ea921373.chunk.css.map",
+    "static/js/2.7671fe17.chunk.js.LICENSE.txt": "/todo-list/static/js/2.7671fe17.chunk.js.LICENSE.txt",
+    "static/media/bg-desktop-dark.73e47dbb.jpg": "/todo-list/static/media/bg-desktop-dark.73e47dbb.jpg",
+    "static/media/bg-desktop-light.3508d620.jpg": "/todo-list/static/media/bg-desktop-light.3508d620.jpg",
+    "static/media/icon-check.a8fb15d0.svg": "/todo-list/static/media/icon-check.a8fb15d0.svg",
+    "static/media/icon-moon.6c03114b.svg": "/todo-list/static/media/icon-moon.6c03114b.svg",
+    "static/media/icon-sun.910b1f9a.svg": "/todo-list/static/media/icon-sun.910b1f9a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4a9aae7.js",
+    "static/js/2.7671fe17.chunk.js",
+    "static/css/main.ea921373.chunk.css",
+    "static/js/main.64e0f1e5.chunk.js"
+  ]
+}
